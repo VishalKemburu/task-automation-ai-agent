@@ -1,0 +1,4 @@
+Project notes:
+- This agent demonstrates a basic agentic AI workflow: plan -> call tool -> observe -> respond.
+- Tools available: calculator, knowledge_search, file_lookup.
+- Built as a portfolio project to demonstrate function-calling / tool-use with LLMs.
